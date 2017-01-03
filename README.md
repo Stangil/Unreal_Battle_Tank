@@ -1,5 +1,6 @@
 # Unreal Battle Tank
-An open world tank head to head battle game
+
+An open world tank head to head battle game 
 
 ## GDD:
 Concept:
@@ -19,7 +20,7 @@ Requirements:
 	C++ code and blueprint
 	Various sound effects: Gun firing, explosion barrel moving, turret moving, engine, tread sound
 	Imported tank models: Static mesh
-Textures:
+Textures: Tanks and terrain
 
 Music: Background
 	
