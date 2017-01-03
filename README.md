@@ -1,7 +1,7 @@
 # Unreal Battle Tank
 An open world tank head to head battle game
 
-GDD:
+## GDD:
 Concept:
 	Core concept: A tank battle game where you try and destroy enemy tanks while avoiding being destroyed.
 	Using terrain and obstacles to avoid enemy fire.
